@@ -25,7 +25,6 @@
 		C518AA3E285F82F900136F08 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C518AA40285F82FA00136F08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C518AA43285F82FA00136F08 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C518AA4C285FA95B00136F08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +57,6 @@
 		C518AA32285F82F900136F08 /* Project11 */ = {
 			isa = PBXGroup;
 			children = (
-				C518AA4C285FA95B00136F08 /* Info.plist */,
 				C518AA33285F82F900136F08 /* AppDelegate.swift */,
 				C518AA35285F82F900136F08 /* GameScene.sks */,
 				C518AA39285F82F900136F08 /* GameScene.swift */,
